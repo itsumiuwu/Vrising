@@ -170,7 +170,7 @@ Le jeu peut être passé en miltiplayer.
 
 3 - copier ` steam_api64.dll `
 
-4 - retourner à la racine du jeu ` E:\Games\Cracked\V  `
+4 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
 
 5 - naviguer jusqu'à ` \VRising_Data\Plugins\x86_64 `
 
@@ -182,13 +182,13 @@ Le jeu peut être passé en miltiplayer.
 
     lorsque windows propose des options de coller, choisir 'Remplacer le fichier dasn la déstination'
 
-7 - aller dans le dossier acine du jeu ` E:\Games\Cracked\V  `
+7 - aller dans le dossier acine du jeu ` E:\Games\Cracked\V Rising  `
 
 8 - naviguer jusqu'à ` \NoDVD\Online Fix\ `
 
 9 - copier ` steam_api64.dll `, ` dlllist.txt `, ` OnlineFix.ini `, ` OnlineFix64.dll `, ` SteamOverlay64.dll ` et ` winmm.dll `
 
-10 - retourner à la racine du jeu ` E:\Games\Cracked\V  `
+10 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
 
 11 - coller les fichiers.
 
@@ -226,7 +226,7 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 
 ## Désinstallation :
 
-1 - aller à la racine du jeu ` E:\Games\Cracked\V  `
+1 - aller à la racine du jeu ` E:\Games\Cracked\V Rising  `
 
 2 - lancer ` unins000.exe `
 
@@ -240,7 +240,7 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 
 2 - copier ` steam_api64.dll `
 
-3 - retourner à la racine du jeu ` E:\Games\Cracked\V  `
+3 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
 
 4 - naviguer jusqu'à ` \VRising_DedicatedServer\VRisingServer_Data\Plugins\x86_64 `
 
