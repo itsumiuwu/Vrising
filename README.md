@@ -16,7 +16,7 @@ le dossier d'installation :
 
 2 - `Exclure` ces deux dossiers de la protection virale du PC
 
-Je vous laisserais chercher selon votre protection, le moyen d'exclure des dossiers.
+Je vous laisserais chercher le moyen d'exclure des dossiers, selon votre protection.
 
 ( Google : comment exclure dossier windows defender, antivirus... )
 
@@ -46,7 +46,7 @@ uTorrent étant utilisé dans ce cas.
 
 ![tuto_Vrising_002](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_002.png)
 
-4 - Exécuter le `.torrent `, il devrait se télécharger via le logiciel installé dans ` E:\DL\Torrents ` ( pour l'exemple ).
+4 - Exécuter le `.torrent `, il devrait se télécharger dans ` E:\DL\Torrents ` ( pour l'exemple ) via le logiciel installé.
 
 5 - télécharger les mise à jours pour passer de la V1.0.0 à la V1.0.4
 
@@ -221,6 +221,8 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 ![tuto_Vrising_020](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_020.png)
 
 8 - Se connecter
+
+9 - Enjoy !! ^-^
 
 ## Désinstallation :
 
