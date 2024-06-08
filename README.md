@@ -116,7 +116,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 ## Update V1.0.0 à V1.0.6 :
 
-1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 4 ` ).
+1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 6 ` ).
 
 ![tuto_Vrising_011](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_011.png)
 
