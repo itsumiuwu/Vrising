@@ -1,20 +1,18 @@
-# VRising
+# :suspect: VRising
 
 La préparation est facultative si vous avez déjà fait une installasion de ce type.
 
-## Préparation :
+## :rage1: Préparation :
 
 1 - créer deux dossiers un pour l'installation du jeux et un pour le téléchargement.
 
-exemples :
-
+exemples :  
 le dossier pour télécharger : 
-` E:\DL\Torrents `
-
+` E:\DL\Torrents `  
 le dossier d'installation : 
-` E:\Games\Cracked `
+` E:\Games\Cracked `  
 
-2 - `Exclure` ces deux dossiers de la protection virale du PC
+2 - `Exclure` ces deux dossiers de la protection virale du PC.
 
 Je vous laisserais chercher selon votre protection, le moyen d'exclure des dossiers.
 
@@ -32,7 +30,7 @@ uTorrent étant utilisé dans ce cas.
 
 4 - si tout est bien préparé. Tout devrait ce dérouler sans accros pour la suite.
 
-## Téléchargement :
+## :rage2: Téléchargement :
 
 1 - Se rendre sur ` https://fitgirl-repacks.site/v-rising/`.
 
@@ -58,7 +56,7 @@ uTorrent étant utilisé dans ce cas.
 
 J'ai effectivement créé un sous-dossier ` Vrising updates ` mais pas obligatoire.
 
-## Installation :
+## :rage3: Installation :
 
 1 - Lancer le `setup`
 
@@ -114,7 +112,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 9 - La fenettre peut être fermée et jouer en `solo - V1.0.0.79266-b23`
 
-## Update V1.0.0 à V1.0.6 :
+## :rage4: Update V1.0.0 à V1.0.6 :
 
 1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 6 ` ).
 
@@ -150,9 +148,9 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 4- SI TOUT S'EST BIEN PASSE.
 
-    exécuter le même procédé pour les deux autes mises à jour.
+    exécuter le même procédé pour les trois autes mises à jour.
 
-Une fois passé de la version 1.0.0 à la 1.0.6., le jeu peut être joué en `solo - 1.0.6.80389-b6`
+Une fois passé de la version 1.0.0 à la 1.0.6, le jeu peut être joué en `solo - 1.0.6.80389-b6`
 
 Le jeu peut être passé en miltiplayer.
 
@@ -162,7 +160,7 @@ Le jeu peut être passé en miltiplayer.
 
     puis revenir dans : Installation
 
-## Multiplayer :
+## :hurtrealbad: Multiplayer :
 
 1 - aller dans le dossier d'installation du jeu ( dans ce cas : ` E:\Games\Cracked\V Rising `)
 
@@ -182,7 +180,7 @@ Le jeu peut être passé en miltiplayer.
 
     lorsque windows propose des options de coller, choisir 'Remplacer le fichier dasn la déstination'
 
-7 - aller dans le dossier acine du jeu ` E:\Games\Cracked\V Rising `
+7 - aller dans le dossier racine du jeu ` E:\Games\Cracked\V Rising `
 
 8 - naviguer jusqu'à ` \NoDVD\Online Fix\ `
 
@@ -202,7 +200,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
     puis revenir dans : Installation
 
-## Joindre une partie multiplayer :
+## :feelsgood: Joindre une partie multiplayer :
 
 1 - lancer steam
 
@@ -230,7 +228,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 8 - Se connecter
 
-## Désinstallation :
+## :finnadie: Désinstallation :
 
 1 - aller à la racine du jeu ` E:\Games\Cracked\V Rising `
 
@@ -240,7 +238,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 4 - ` ok `
 
-## /!\ en cours de rédaction /!\ Serveur :
+## :godmode: /!\ en cours de rédaction /!\ Serveur :
 
 1 - naviguer jusqu'à ` \NoDVD\Online Fix\VRising_Server\VRisingServer_Data\Plugins\x86_64 `
 
