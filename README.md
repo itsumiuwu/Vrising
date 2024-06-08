@@ -1,8 +1,8 @@
-# :suspect: VRising
+# ![doom suspect](https://github.githubassets.com/images/icons/emoji/suspect.png) VRising 
 
 La préparation est facultative si vous avez déjà fait une installasion de ce type.
 
-## :rage1: Préparation :
+## ![doom rage1](https://github.githubassets.com/images/icons/emoji/rage1.png) Préparation :
 
 1 - créer deux dossiers un pour l'installation du jeux et un pour le téléchargement.
 
@@ -30,11 +30,11 @@ uTorrent étant utilisé dans ce cas.
 
 4 - si tout est bien préparé. Tout devrait ce dérouler sans accros pour la suite.
 
-## :rage2: Téléchargement :
+## ![doom rage2](https://github.githubassets.com/images/icons/emoji/rage2.png) Téléchargement :
 
 1 - Se rendre sur ` https://fitgirl-repacks.site/v-rising/`.
 
-![tuto_Vrising_000](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_000.png)
+![tuto_Vrising_000](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_000.png){width=15px; height=15px;}
 
 2 - Cliquer sur le lien encadré en violet.
 
@@ -56,7 +56,7 @@ uTorrent étant utilisé dans ce cas.
 
 J'ai effectivement créé un sous-dossier ` Vrising updates ` mais pas obligatoire.
 
-## :rage3: Installation :
+## ![doom rage3](https://github.githubassets.com/images/icons/emoji/rage3.png) Installation :
 
 1 - Lancer le `setup`
 
@@ -112,7 +112,7 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 9 - La fenettre peut être fermée et jouer en `solo - V1.0.0.79266-b23`
 
-## :rage4: Update V1.0.0 à V1.0.6 :
+## ![doom rage4](https://github.githubassets.com/images/icons/emoji/rage4.png) Update V1.0.0 à V1.0.6 :
 
 1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 6 ` ).
 
@@ -160,7 +160,7 @@ Le jeu peut être passé en miltiplayer.
 
     puis revenir dans : Installation
 
-## :hurtrealbad: Multiplayer :
+## ![doom hurtrealbad](https://github.githubassets.com/images/icons/emoji/hurtrealbad.png) Multiplayer :
 
 1 - aller dans le dossier d'installation du jeu ( dans ce cas : ` E:\Games\Cracked\V Rising `)
 
@@ -200,7 +200,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
     puis revenir dans : Installation
 
-## :feelsgood: Joindre une partie multiplayer :
+## ![doom feelsgood](https://github.githubassets.com/images/icons/emoji/feelsgood.png) Joindre une partie multiplayer :
 
 1 - lancer steam
 
@@ -228,7 +228,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 8 - Se connecter
 
-## :finnadie: Désinstallation :
+## ![doom finnadie](https://github.githubassets.com/images/icons/emoji/finnadie.png) Désinstallation :
 
 1 - aller à la racine du jeu ` E:\Games\Cracked\V Rising `
 
@@ -238,7 +238,7 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 4 - ` ok `
 
-## :godmode: /!\ en cours de rédaction /!\ Serveur :
+## ![doom godmode](https://github.githubassets.com/images/icons/emoji/godmode.png) /!\ en cours de rédaction /!\ Serveur :
 
 1 - naviguer jusqu'à ` \NoDVD\Online Fix\VRising_Server\VRisingServer_Data\Plugins\x86_64 `
 
