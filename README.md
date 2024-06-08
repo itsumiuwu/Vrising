@@ -192,7 +192,15 @@ Le jeu peut être passé en miltiplayer.
 
 11 - coller les fichiers.
 
-Le jeu peut etre lancé en `multi - 1.0.6.80389-b6`.
+12- SI TOUT S'EST BIEN PASSE.
+
+Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
+
+13- SI TOUT S'EST PAS BIEN PASSE.
+
+    voir : Désinstallation
+
+    puis revenir dans : Installation
 
 ## Joindre une partie multiplayer :
 
