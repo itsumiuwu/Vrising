@@ -16,7 +16,7 @@ le dossier d'installation :
 
 2 - `Exclure` ces deux dossiers de la protection virale du PC
 
-Je vous laisserais chercher le moyen d'exclure des dossiers, selon votre protection.
+Je vous laisserais chercher selon votre protection, le moyen d'exclure des dossiers.
 
 ( Google : comment exclure dossier windows defender, antivirus... )
 
@@ -46,13 +46,13 @@ uTorrent étant utilisé dans ce cas.
 
 ![tuto_Vrising_002](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_002.png)
 
-4 - Exécuter le `.torrent `, il devrait se télécharger dans ` E:\DL\Torrents ` ( pour l'exemple ) via le logiciel installé.
+4 - Exécuter le `.torrent `, il devrait se télécharger via le logiciel installé dans ` E:\DL\Torrents ` ( pour l'exemple ).
 
-5 - télécharger les mise à jours pour passer de la V1.0.0 à la V1.0.4
+5 - télécharger les mise à jours pour passer de la V1.0.0 à la V1.0.6
 
 ![tuto_Vrising_010](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_010.png)
 
-6 - placer ces deux `.rar` dans ` E:\DL\Torrents ` extrayiez ici.
+6 - placer ces trois `.rar` dans ` E:\DL\Torrents ` extrayiez ici.
 
 ![tuto_Vrising_011](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_011.png)
 
@@ -112,9 +112,9 @@ cela lancera le ` .bat ` précédemment evoqué.
 
 ![tuto_Vrising_009](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_009.png)
 
-9 - La fenettre peut être fermée et jouer en `solo - V1.0.0.79266-B23`
+9 - La fenettre peut être fermée et jouer en `solo - V1.0.0.79266-b23`
 
-## Update V1.0.0 à V1.0.4 :
+## Update V1.0.0 à V1.0.6 :
 
 1 - aller dans le dossier où se trouve les exécutables de mise à jour ( vu dans ` Téléchargement ` le point ` 4 ` ).
 
@@ -148,15 +148,15 @@ cela lancera le ` .bat ` précédemment evoqué.
 
     cliquer sur Exit.
 
-4- SI TOUS S'EST BIEN PASSE.
+4- SI TOUT S'EST BIEN PASSE.
 
     exécuter le même procédé pour les deux autes mises à jour.
 
-Une fois passé de la version 1.0.0 à la 1.0.4., le jeu peut être joué en `solo - 1.0.4.79918-B10`
+Une fois passé de la version 1.0.0 à la 1.0.6., le jeu peut être joué en `solo - 1.0.6.80389-b6`
 
 Le jeu peut être passé en miltiplayer.
 
-5- SI TOUS S'EST PAS BIEN PASSE.
+5- SI TOUT S'EST PAS BIEN PASSE.
 
     voir : Désinstallation
 
@@ -170,7 +170,7 @@ Le jeu peut être passé en miltiplayer.
 
 3 - copier ` steam_api64.dll `
 
-4 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
+4 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising `
 
 5 - naviguer jusqu'à ` \VRising_Data\Plugins\x86_64 `
 
@@ -182,13 +182,13 @@ Le jeu peut être passé en miltiplayer.
 
     lorsque windows propose des options de coller, choisir 'Remplacer le fichier dasn la déstination'
 
-7 - aller dans le dossier acine du jeu ` E:\Games\Cracked\V Rising  `
+7 - aller dans le dossier acine du jeu ` E:\Games\Cracked\V Rising `
 
 8 - naviguer jusqu'à ` \NoDVD\Online Fix\ `
 
 9 - copier ` steam_api64.dll `, ` dlllist.txt `, ` OnlineFix.ini `, ` OnlineFix64.dll `, ` SteamOverlay64.dll ` et ` winmm.dll `
 
-10 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
+10 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising `
 
 11 - coller les fichiers.
 
@@ -222,11 +222,9 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 
 8 - Se connecter
 
-9 - Enjoy !! ^-^
-
 ## Désinstallation :
 
-1 - aller à la racine du jeu ` E:\Games\Cracked\V Rising  `
+1 - aller à la racine du jeu ` E:\Games\Cracked\V Rising `
 
 2 - lancer ` unins000.exe `
 
@@ -234,13 +232,13 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 
 4 - ` ok `
 
-## Serveur : /!\ en cours de rédaction
+## /!\ en cours de rédaction /!\ Serveur :
 
 1 - naviguer jusqu'à ` \NoDVD\Online Fix\VRising_Server\VRisingServer_Data\Plugins\x86_64 `
 
 2 - copier ` steam_api64.dll `
 
-3 - retourner à la racine du jeu ` E:\Games\Cracked\V Rising  `
+3 - retourner à la racine du jeu ` E:\Games\Cracked\V  `
 
 4 - naviguer jusqu'à ` \VRising_DedicatedServer\VRisingServer_Data\Plugins\x86_64 `
 
@@ -252,6 +250,6 @@ Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
 
     lorsque windows propose des options choisir 'Remplacer le fichier dasn la déstination'
 
-/!\ fin de : en cours de rédaction
+/!\ fin de : en cours de rédaction /!\
 
 ---
