@@ -192,7 +192,7 @@ Le jeu peut être passé en miltiplayer.
 
 11 - coller les fichiers.
 
-Le jeu peut etre lancé en `multi - 1.0.4.79918-B10`.
+Le jeu peut etre lancé en `multi - 1.0.6.80389-b6`.
 
 ## Joindre une partie multiplayer :
 
