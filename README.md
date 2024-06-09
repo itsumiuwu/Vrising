@@ -222,11 +222,24 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 ![tuto_Vrising_019](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_019.png)
 
-7 - Coller l'ID du serveur pcécédement fourni par l'hote du serveur.
+7 - Coller ` l'ID du serveur ` ou `l'IP avec le port `  
+ pcécédement fourni par l'hote du serveur.
+
+---
+
+![tuto_Vrising_021](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_021.png)
+
+![tuto_Vrising_023](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_023.png)
+
+![tuto_Vrising_022](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_022.png)
 
 ![tuto_Vrising_020](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_020.png)
 
+---
+
 8 - Se connecter
+
+9 - :vampire: ` enjoy !!! `
 
 ## ![doom finnadie](https://github.githubassets.com/images/icons/emoji/finnadie.png) Désinstallation :
 
