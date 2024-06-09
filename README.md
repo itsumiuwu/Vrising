@@ -233,9 +233,9 @@ Le jeu peut etre lancé en ` multi - 1.0.6.80389-b6 `.
 
 ![tuto_Vrising_022](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_022.png)
 
-![tuto_Vrising_020](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_020.png)
-
 ---
+
+![tuto_Vrising_020](https://raw.githubusercontent.com/itsumiuwu/VRising/main/public/img/tuto_Vrising_020.png)
 
 8 - Se connecter
 
